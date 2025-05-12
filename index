@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>XXXXX - Serviços Financeiros</title>
+  <title>PINA LTDA - Serviços Financeiros</title>
 </head>
 <body>
-  <h1>Bem-vindo à PINALTDA</h1>
+  <h1>Bem-vindo à PINA LTDA</h1>
   <p>Atuamos com soluções financeiras acessíveis e transparentes para facilitar sua vida.</p>
 
   <h2>Serviços oferecidos:</h2>
@@ -19,11 +19,17 @@
   </ul>
 
   <h2>Dados da empresa:</h2>
-  <p>Razão Social: PI NA LTDA</p>
+  <p>Razão Social: PINA LTDA</p>
   <p>CNPJ: 60.451.402/0001-34</p>
-  <p>Telefone: +55 13 98194-2697</p>
-  <p>E-mail: aziza15@uorak.com</p>
+  <p>Telefone: +55 XX XXXXX-XXXX</p>
+  <p>E-mail: contato@exemplo.com</p>
 
   <p><a href="politica.html">Política de Privacidade</a></p>
+
+  <footer style="text-align: center; font-size: 13px; color: #666; margin-top: 40px;">
+    <p>Razão Social: PINA LTDA</p>
+    <p>CNPJ: 60.451.402/0001-34</p>
+    <p>&copy; 2025 PINA LTDA. Todos os direitos reservados.</p>
+  </footer>
 </body>
 </html>
